@@ -1,0 +1,2 @@
+[2025-03-24 20:20:04] Fall detection system started
+[2025-03-24 20:21:14] Fall detection system stopped
